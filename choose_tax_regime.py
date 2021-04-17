@@ -1,8 +1,11 @@
 """
 Python script to calculate old regime vs new regime tax
 
-Reference:
+References:
     * https://groww.in/blog/old-vs-new-tax-regime-which-is-better/
+    * 80C - https://cleartax.in/s/80c-80-deductions#Section80C
+    * 80CCD - https://cleartax.in/s/section-80ccd
+    * 80D- https://cleartax.in/s/medical-insurance
 
 TODO : Need to add standard reductions
 TODO : Need to add HRA
